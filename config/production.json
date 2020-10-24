@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://mimo:4JAzMRXVKbt5XTIG@reactjs.lqx8r.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+  }
