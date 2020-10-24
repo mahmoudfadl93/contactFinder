@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const config = require('config');// you have to make file and connect to your data base
+const config = require('config');// you have to make json file and connect to your data base
 const db = config.get('mongoURI');
 
 const connectDB = async () => {
